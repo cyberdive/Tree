@@ -7,3 +7,11 @@ D:\git\tree\bin\Debug\tree.exe
 D:\git\tree\bin\Debug\tree.pdb
 D:\git\tree\obj\Debug\tree.exe
 D:\git\tree\obj\Debug\tree.pdb
+D:\git\Tree\bin\Debug\BouncyCastle.Crypto.dll
+D:\git\Tree\bin\Debug\Google.Protobuf.dll
+D:\git\Tree\bin\Debug\MySql.Data.dll
+D:\git\Tree\bin\Debug\Renci.SshNet.dll
+D:\git\Tree\bin\Debug\Google.Protobuf.xml
+D:\git\Tree\bin\Debug\MySql.Data.xml
+D:\git\Tree\bin\Debug\Renci.SshNet.xml
+D:\git\Tree\obj\Debug\tree.csproj.CopyComplete
